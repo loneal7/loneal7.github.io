@@ -32,7 +32,7 @@
     }
 
     .section-basic-components,
-    .section-testimonials{
+    .section-Reviews{
         overflow: hidden;
     }
 
@@ -446,7 +446,7 @@
         }
     }
 
-    .section-testimonials{
+    .section-Reviews{
         padding-bottom: 0;
 
         &[data-background-color="black"]{
@@ -456,7 +456,7 @@
         .carousel .card{
             margin: 40px auto;
         }
-        .testimonials-people{
+        .Reviews-people{
             margin-top: -100px;
         }
     }
@@ -1222,7 +1222,7 @@ and ( orientation : portrait){
             }
         }
 
-        .testimonials-people{
+        .Reviews-people{
             & img{
                 position: relative;
                 display: none;

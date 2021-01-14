@@ -34,7 +34,7 @@
 }
 
 .presentation-page .section-basic-components,
-.presentation-page .section-testimonials {
+.presentation-page .section-Reviews {
     overflow: hidden;
 }
 
@@ -489,19 +489,19 @@
     margin-top: 100px;
 }
 
-.presentation-page .section-testimonials {
+.presentation-page .section-Reviews {
     padding-bottom: 0;
 }
 
-.presentation-page .section-testimonials[data-background-color="black"] {
+.presentation-page .section-Reviews[data-background-color="black"] {
     background: #181818;
 }
 
-.presentation-page .section-testimonials .carousel .card {
+.presentation-page .section-Reviews .carousel .card {
     margin: 40px auto;
 }
 
-.presentation-page .section-testimonials .testimonials-people {
+.presentation-page .section-Reviews .Reviews-people {
     margin-top: -100px;
 }
 
@@ -1237,7 +1237,7 @@
     .presentation-page .section-icons .icons-nucleo .tenth-left-icon {
         left: 65%;
     }
-    .presentation-page .testimonials-people img {
+    .presentation-page .Reviews-people img {
         position: relative;
         display: none;
     }
